@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I am currently working on Data Structures and Algorithms, alongside learning the PERN stack through CodeCademy's Full Stack Engineer Career Path.
 
 Any relevant video demonstrations can be found at the following link: 
