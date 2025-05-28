@@ -1,5 +1,5 @@
 # About Me:
-I am a recent graduate and aspiring developer. I am currently working in Python and learning the PERN tech stack.<br><br>Any relevant video demonstrations can be found at the following link:<br><br>https://samuel-holmes.github.io/Video_Demos/
+I am a recent graduate and passionate aspiring developer. I am currently working in Python and learning the PERN tech stack.<br><br>Any relevant video demonstrations can be found at the following link:<br><br>https://samuel-holmes.github.io/Video_Demos/
 
 
 # 💻 Tech Stack:
